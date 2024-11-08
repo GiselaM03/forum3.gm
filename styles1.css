@@ -1,0 +1,23 @@
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f5f5f5;
+  }
+  
+  header {
+    background-color: #e5e4c0;
+    color: white;
+    padding: 20px 0;
+  }
+  
+  .carousel-inner img {
+    height: 500px;
+    object-fit: cover;
+  }
+  
+  footer {
+    background-color: #e5e4c0;
+    position: relative;
+    bottom: 0;
+    width: 100%;
+  }
+  
